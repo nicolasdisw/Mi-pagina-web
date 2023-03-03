@@ -299,7 +299,6 @@ footer{
 .social-media-icon:hover{
     background: #fff;
     color:#04473a;
-    height: 100vh;
 }
 
 @media screen and (max-width: 800px){
